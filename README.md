@@ -2,7 +2,7 @@
 
 This project I am to create a website that has a weather API linked to it that will show different cities weathers depending on what the user enters.
 
-The UV index will change colors depending on the quality. 
+The UV index will change colors depending on the quality. The recent searches will also be saved to storage and can be found on the left hand side. 
 
 Here is a live link to my page : https://anthonygamon.github.io/06-Server-Side-APIs/.
 
