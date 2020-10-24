@@ -6,6 +6,9 @@ The UV index will change colors depending on the quality. The recent searches wi
 
 Here is a live link to my page : https://anthonygamon.github.io/06-Server-Side-APIs/.
 
+![screenshot (2)](https://user-images.githubusercontent.com/68041150/97085205-9d8cb000-15e1-11eb-834a-7b34dfc6e740.png)
+
+
 ------------
 Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
 
